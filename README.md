@@ -9,5 +9,10 @@
 ## Título
 Uso da Robótica para o Estudo de Algoritmos 
 
-## Publicação
+## Publicação TCC
 [Biblioteca IFC](https://pergamumweb.ifc.edu.br/pergamumweb_ifc/vinculos/000000/000000d1.pdf)
+
+### Outras Publicações (Artigo Científico)
+• Anais
+<br/>
+[V FICE (Feira de Iniciação Científica e Extensão)](http://www.camboriu.ifc.edu.br/vfice2014/anais/trab73.html)
