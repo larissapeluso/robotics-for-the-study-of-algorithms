@@ -84,4 +84,4 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <br/>
 
 #### Motivação do aluno na escolha do curso profissional
-<img src='reports/images/motivation_student_in_the_choice_of_the_professional_course.png' align="center" height=auto width=56%>
+<img src='reports/images/motivation_student_in_the_choice_of_the_professional_course.png' align="center" height=auto width=67%>
