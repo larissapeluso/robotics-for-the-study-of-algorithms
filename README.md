@@ -41,23 +41,23 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <img src='reports/images/project_blink_led1.png' align="center" height=auto width=60%>
 
 #### Estruturas de Repetição - Montagem
-<img src='reports/images/project_blink_led2.png' align="center" height=auto width=60%>
+<img src='reports/images/project_blink_led2.png' align="center" height=auto width=80%>
 
 <br/>
 
 #### Vetores - Projeto
-<img src='reports/images/sound_reproduction_project1.png' align="center" height=auto width=80%>
+<img src='reports/images/sound_reproduction_project1.png' align="center" height=auto width=60%>
 
 #### Vetores - Montagem
-<img src='reports/images/sound_reproduction_project2.png' align="center" height=auto width=80%>
+<img src='reports/images/sound_reproduction_project2.png' align="center" height=auto width=60%>
 
 <br/>
 
 #### Matrizes - Projeto
-<img src='reports/images/project_lights_led_in_matrix1.png' align="center" height=auto width=80%>
+<img src='reports/images/project_lights_led_in_matrix1.png' align="center" height=auto width=60%>
 
 #### Matrizes - Montagem
-<img src='reports/images/project_lights_led_in_matrix2.png' align="center" height=auto width=80%>
+<img src='reports/images/project_lights_led_in_matrix2.png' align="center" height=auto width=60%>
 
 <br/>
 
