@@ -29,34 +29,34 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 ### Exemplos de Projetos Práticos com Arduino Aplicados nos Conceitos de Algoritmos 
 
-#### ESTRUTURAS DE DECISÃO - PROJETO
+#### Estruturas de Decisão - Projeto
 <img src='reports/images/project_lights_led1.png' align="center" height=auto width=80%>
 
-#### ESTRUTURAS DE DECISÃO - MONTAGEM
+#### Estruturas de Decisão - Montagem
 <img src='reports/images/project_lights_led2.png' align="center" height=auto width=80%>
 
 <br/>
 
-#### ESTRUTURAS DE REPETIÇÃO - PROJETO
+#### Estruturas de Repetição - Projeto
 <img src='reports/images/project_blink_led1.png' align="center" height=auto width=80%>
 
-#### ESTRUTURAS DE REPETIÇÃO - MONTAGEM
+#### Estruturas de Repetição - Montagem
 <img src='reports/images/project_blink_led2.png' align="center" height=auto width=80%>
 
 <br/>
 
-#### VETORES - PROJETO
+#### Vetores - Projeto
 <img src='reports/images/sound_reproduction_project1.png' align="center" height=auto width=80%>
 
-#### VETORES - MONTAGEM
+#### Vetores - Montagem
 <img src='reports/images/sound_reproduction_project2.png' align="center" height=auto width=80%>
 
 <br/>
 
-#### MATRIZES - PROJETO
+#### Matrizes - Projeto
 <img src='reports/images/project_lights_led_in_matrix1.png' align="center" height=auto width=80%>
 
-#### MATRIZES - MONTAGEM
+#### Matrizes - Montagem
 <img src='reports/images/project_lights_led_in_matrix2.png' align="center" height=auto width=80%>
 
 <br/>
