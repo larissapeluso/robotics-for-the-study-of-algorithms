@@ -15,4 +15,4 @@ Uso da Robótica para o Estudo de Algoritmos
 ### Outras Publicações (Artigo Científico)
 • Anais
 <br/>
-[V FICE (Feira de Iniciação Científica e Extensão)](http://www.camboriu.ifc.edu.br/vfice2014/anais/trab73.html)
+[V FICE](http://www.camboriu.ifc.edu.br/vfice2014/anais/trab73.html)
