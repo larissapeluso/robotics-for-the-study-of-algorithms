@@ -39,3 +39,8 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### ESTRUTURAS DE REPETIÇÃO - PROJETO
 <img src='reports/images/project_blink_led1.png' align="center" height=auto width=80%>
+
+#### ESTRUTURAS DE REPETIÇÃO - MONTAGEM
+<img src='reports/images/project_blink_led2.png' align="center" height=auto width=80%>
+
+<br/>
