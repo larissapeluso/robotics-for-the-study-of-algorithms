@@ -64,24 +64,24 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 ### Resultados da Aplicação da Pesquisa com os Alunos de Informática do IFC - Câmpus Camboriú
 
 #### Opiniões dos alunos de nível médio em relação à utilização da robótica em programação de computadores
-<img src='reports/images/opinions_students_middle_level.png' align="center" height=auto width=80%>
+<img src='reports/images/opinions_students_middle_level.png' align="center" height=auto width=90%>
 
 <br/>
 
 #### Área profissional/curso que os alunos de nível médio pretendem seguir 
-<img src='reports/images/professional_area_of_interest_students_middle_level.png' align="center" height=auto width=80%>
+<img src='reports/images/professional_area_of_interest_students_middle_level.png' align="center" height=auto width=90%>
 
 <br/>
 
 #### Alunos de nível médio que já utilizaram robô 
-<img src='reports/images/students_middle_level_used_robot.png' align="center" height=auto width=56%>
+<img src='reports/images/students_middle_level_used_robot.png' align="center" height=auto width=62%>
 
 <br/>
 
 #### Alunos de nível superior que já utilizaram robô 
-<img src='reports/images/students_higher_level_used_robot.png' align="center" height=auto width=56%>
+<img src='reports/images/students_higher_level_used_robot.png' align="center" height=auto width=60%>
 
 <br/>
 
 #### Motivação do aluno na escolha do curso profissional
-<img src='reports/images/motivation_student_in_the_choice_of_the_professional_course.png' align="center" height=auto width=67%>
+<img src='reports/images/motivation_student_in_the_choice_of_the_professional_course.png' align="center" height=auto width=72%>
