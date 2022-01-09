@@ -85,3 +85,13 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### Motivação do aluno na escolha do curso profissional
 <img src='reports/images/motivation_student_in_the_choice_of_the_professional_course.png' align="center" height=auto width=72%>
+
+<br/>
+
+## Requisitos
+| Requisito       | Versão            |
+|---------------- |-------------------|
+| Windows         | 8 ou superior     |
+| Arduino         | 1.0.6 ou superior |
+
+### Existem versões do Arduino para outros Sistemas Operacionais também, porém, este projeto foi testado no Windows 8. Por este motivo, foi definido como requisito, ter o Sistema Operacional Windows. Pois,este projeto não foi testado nos demais Sistemas Operacionais.  
