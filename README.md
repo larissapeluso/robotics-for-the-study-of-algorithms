@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="reports/images/estrutura_metodo.png" align="right" height=auto width=60%/>
+<img src="reports/images/structure_method.png" align="right" height=auto width=60%/>
 
 ## Título
 Uso da Robótica para o Estudo de Algoritmos 
