@@ -64,7 +64,7 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 ### Resultados da Aplicação da Pesquisa com os Alunos de Informática do IFC - Câmpus Camboriú
 
 #### Opiniões dos alunos de nível médio em relação à utilização da robótica em programação de computadores
-<img src='reports/images/students_opinions_middle_level.png' align="center" height=auto width=80%>
+<img src='reports/images/opinions_students_middle_level.png' align="center" height=auto width=80%>
 
 <br/>
 
