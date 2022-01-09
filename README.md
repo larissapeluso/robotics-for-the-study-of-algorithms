@@ -36,3 +36,6 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <img src='reports/images/project_lights_led2.png' align="center" height=auto width=80%>
 
 <br/>
+
+#### ESTRUTURAS DE REPETIÇÃO - PROJETO
+<img src='reports/images/project_blink_led1.png' align="center" height=auto width=80%>
