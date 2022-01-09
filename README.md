@@ -55,3 +55,6 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### MATRIZES - PROJETO
 <img src='reports/images/project_lights_led_in_matrix1.png' align="center" height=auto width=80%>
+
+#### MATRIZES - MONTAGEM
+<img src='reports/images/project_lights_led_in_matrix2.png' align="center" height=auto width=80%>
