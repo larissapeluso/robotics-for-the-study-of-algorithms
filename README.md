@@ -80,3 +80,8 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### Alunos de nível superior que já utilizaram robô 
 <img src='reports/images/students_higher_level_used_robot.png' align="center" height=auto width=56%>
+
+<br/>
+
+#### Motivação do aluno na escolha do curso profissional
+<img src='reports/images/motivation_student_in_the_choice_of_the_professional_course.png' align="center" height=auto width=56%>
