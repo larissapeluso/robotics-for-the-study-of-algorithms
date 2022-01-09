@@ -69,3 +69,4 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <br/>
 
 #### Área profissional/curso que os alunos de nível médio pretendem seguir 
+<img src='reports/images/professional_area_of_interest_students_middle_level.png' align="center" height=auto width=80%>
