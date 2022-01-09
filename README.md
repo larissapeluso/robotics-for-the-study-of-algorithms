@@ -70,3 +70,8 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### Área profissional/curso que os alunos de nível médio pretendem seguir 
 <img src='reports/images/professional_area_of_interest_students_middle_level.png' align="center" height=auto width=80%>
+
+<br/>
+
+#### Alunos de nível médio que já utilizaram robô 
+<img src='reports/images/students_middle_level_used_robot.png' align="center" height=auto width=80%>
