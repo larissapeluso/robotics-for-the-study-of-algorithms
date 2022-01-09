@@ -47,3 +47,6 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### VETORES - PROJETO
 <img src='reports/images/sound_reproduction_project1.png' align="center" height=auto width=80%>
+
+#### VETORES - MONTAGEM
+<img src='reports/images/sound_reproduction_project2.png' align="center" height=auto width=80%>
