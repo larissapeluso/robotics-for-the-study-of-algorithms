@@ -61,4 +61,4 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 <br/>
 
-#### Resultados da Aplicação da Pesquisa com os Alunos de Informática
+### Resultados da Aplicação da Pesquisa com os Alunos de Informática
