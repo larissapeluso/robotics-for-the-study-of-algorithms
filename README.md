@@ -44,3 +44,6 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <img src='reports/images/project_blink_led2.png' align="center" height=auto width=80%>
 
 <br/>
+
+#### VETORES - PROJETO
+<img src='reports/images/sound_reproduction_project1.png' align="center" height=auto width=80%>
