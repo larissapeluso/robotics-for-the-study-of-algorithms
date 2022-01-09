@@ -50,3 +50,8 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### VETORES - MONTAGEM
 <img src='reports/images/sound_reproduction_project2.png' align="center" height=auto width=80%>
+
+<br/>
+
+#### MATRIZES - PROJETO
+<img src='reports/images/project_lights_led_in_matrix1.png' align="center" height=auto width=80%>
