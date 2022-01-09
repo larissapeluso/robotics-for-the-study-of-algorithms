@@ -23,6 +23,6 @@ Uso da Robótica para o Estudo de Algoritmos
 Criar um modelo para demonstrar a aplicação dos conceitos básicos da disciplina de Algoritmos e Programação de Computadores por meio da criação de projetos com Arduino.
 
 ### Objetivos Específicos
-  a) Proporcionar maior atratividade ao aluno no estudo de algoritmos;
+a) Proporcionar maior atratividade ao aluno no estudo de algoritmos;
 <br/>
-  b) Aplicar os conceitos vistos em aula em projetos práticos.
+b) Aplicar os conceitos vistos em aula em projetos práticos.
