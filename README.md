@@ -27,6 +27,6 @@ a) Proporcionar maior atratividade ao aluno no estudo de algoritmos;
 <br/>
 b) Aplicar os conceitos vistos em aula em projetos práticos.
 
-### Projetos Práticos com Arduino aplicados nos conceitos de Algoritmos 
+### Exemplos de Projetos Práticos com Arduino Aplicados nos Conceitos de Algoritmos 
 
 #### ESTRUTURAS DE DECISÃO
