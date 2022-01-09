@@ -58,3 +58,7 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 #### MATRIZES - MONTAGEM
 <img src='reports/images/project_lights_led_in_matrix2.png' align="center" height=auto width=80%>
+
+<br/>
+
+#### Resultados da Aplicação da Pesquisa com os Alunos de Informática
