@@ -74,9 +74,9 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <br/>
 
 #### Alunos de nível médio que já utilizaram robô 
-<img src='reports/images/students_middle_level_used_robot.png' align="center" height=auto width=80%>
+<img src='reports/images/students_middle_level_used_robot.png' align="center" height=auto width=56%>
 
 <br/>
 
 #### Alunos de nível superior que já utilizaram robô 
-<img src='reports/images/students_higher_level_used_robot.png' align="center" height=auto width=80%>
+<img src='reports/images/students_higher_level_used_robot.png' align="center" height=auto width=56%>
