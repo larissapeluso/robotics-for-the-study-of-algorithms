@@ -157,7 +157,7 @@ ROMÃO, L. M.; SACCHELLI, C. M. Uma Proposta Construtivista na Aprendizagem dos 
 
 SILVA, A. C.; LUCHE, F. D.; GOULART, E.; AGUIAR, V. P. Aplicação da Robótica no Ensino Fundamental: um estudo de caso. Revista de Informática Aplicada, São Caetano do Sul, SP, v.5, n.2, p.1-18, 01 nov. 2009. Bimestral. Disponível em: http://seer.uscs.edu.br/index.php/revista_informatica_aplicada/article/view/991/805. Acesso em: 07 jun. 2014.
 
-SOBJAK, R. Algoritmos e lógica da programação. 2011. Disponível em: sobjak.files.wordpress.com/2011/07/apostila-de-algoritmos-e-lc3b3gica-da-programac3a7c3a3o.pdf. Acesso em: 03 set. 2014.
+SOBJAK, R. Algoritmos e lógica da programação. 2011. Disponível em: <a href=sobjak.files.wordpress.com/2011/07/apostila-de-algoritmos-e-lc3b3gica-da-programac3a7c3a3o.pdf>sobjak.files.wordpress.com/2011/07/apostila-de-algoritmos-e-lc3b3gica-da-programac3a7c3a3o.pdf</a>. Acesso em: 03 set. 2014.
 
 SUPERGEEKS. SuperGeeks (Site). Disponível em: http://supergeeks.com.br. Acesso em: 19 abr. 2014.
 
