@@ -61,7 +61,9 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 <br/>
 
-### Resultados da Aplicação da Pesquisa com os Alunos de Informática do IFC - Câmpus Camboriú
+## Oficina Prática de Arduino Ministrada no IFC - Câmpus Camboriú
+
+### Resultados da Pesquisa Aplicada com os Alunos de Informática no Evento 5º e-TIC
 
 #### Opiniões dos alunos de nível médio em relação à utilização da robótica em programação de computadores
 <img src='reports/images/opinions_students_middle_level.png' align="center" height=auto width=90%>
