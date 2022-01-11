@@ -116,7 +116,7 @@ BARBOSA, L. F. W. A Utilização da Robótica como Ferramenta Multidisciplinar n
 CASTILHO, M.; SILVA, F.; WEINGAERTNER, D. Algoritmos e Estrutura de Dados I. 2011. Disponível em: <www.inf.ufpr.br/cursos/ci055/apostila.pdf>. Acesso em: 03 set. 2014.
 
 CISCO. Estudo revela demanda crescente por profissionais de tecnologia no Brasil, mas há falta de mão de obra qualificada. 2013. Disponível em:
-<http://globalnewsroom.cisco.com/pt/br/release/Estudo-revela-demanda-crescente- por-profissionais-de-tecnologia-no-Brasil-mas-h%C3%A1-falta-1688801>. Acesso em: 16 mai. 2014.
+<http://globalnewsroom.cisco.com/pt/br/release/Estudo-revela-demanda-crescente-por-profissionais-de-tecnologia-no-Brasil-mas-h%C3%A1-falta-1688801>. Acesso em: 16 mai. 2014.
 
 DETERS, J. I et. al. O Desafio de Trabalhar com Alunos Repetentes na Disciplina de Algoritmos e Programação. Florianópolis: Serviço Nacional de Aprendizagem Industrial – SENAI, 2008; Itajaí: Universidade do Vale do Itajaí – UNIVALI, 2008; São José: Universidade do Vale do Itajaí – UNIVALI, 2008. Disponível em:
 <http://proativa.virtual.ufc.br/sbie/CD_ROM_COMPLETO/workshops/workshop%20 2/O%20Desafio%20de%20Trabalhar%20com%20Alunos%20Repetentes%20na.pdf>. Acesso em: 21 abr. 2014.
@@ -127,7 +127,7 @@ HINTERHOLZ JR., O. Tepequém: uma nova ferramenta para o ensino de algoritmos no
 <http://csbc2009.inf.ufrgs.br/anais/pdf/wei/st02_04.pdf >. Acesso em: 21 abr. 2014.
 
 ITAJAI. Escola de Itajaí recebe Oficina de Robótica. 2014. Disponível em:
-<http://www.itajai.sc.gov.br/noticia/8807/escola-de-itajai-recebe-oficina-de- robotica#.VFa1OvnF8R4>. Acesso em: 03 ago. 2014.
+<http://www.itajai.sc.gov.br/noticia/8807/escola-de-itajai-recebe-oficina-de-robotica#.VFa1OvnF8R4>. Acesso em: 03 ago. 2014.
 
 MANZANO, J. A. N. G.; OLIVEIRA, J. F. de. Algoritmos: lógica para desenvolvimento de programação de computadores. 24ª ed. rev. São Paulo: Érica, 2010.
 
@@ -137,16 +137,16 @@ MCROBERTS, M. Arduino básico. Tradução: Rafael Zanolli. São Paulo: Novatec E
 
 MONK, S. Programação com Arduino: começando com Sketches. Tradução: Anatólio Laschuk. Porto Alegre: Bookman, 2013. 148 p.
 
-MULTILOGICASHOP. Fritzing, um programa livre para projetos e testes com Arduino. Disponível em: <http://multilogica-shop.com/content/fritzing-um-programa- livre-para-projetos-e-testes-com-arduino>. Acesso em: 02 out. 2014.
+MULTILOGICASHOP. Fritzing, um programa livre para projetos e testes com Arduino. Disponível em: <http://multilogica-shop.com/content/fritzing-um-programa-livre-para-projetos-e-testes-com-arduino>. Acesso em: 02 out. 2014.
 
 NETO, W. C. B. Ferramenta computacional de apoio ao processo de ensino- aprendizagem dos fundamentos de programação de computadores. 2007.
-Disponível em: <http://www.lbd.dcc.ufmg.br/colecoes/sbie/2007/0022.pdf >. Acesso em: 02 out. 2014.
+Disponível em: <http://www.lbd.dcc.ufmg.br/colecoes/sbie/2007/0022.pdf>. Acesso em: 02 out. 2014.
 
 ONACIONAL. 1ª Olimpíada de Robótica Educativa Livre da UPF está com inscrições abertas. 2013. Disponível em:
-<http://www.onacional.com.br/geral/cidade/44004/1+0limpiada+de+robotica+educati va+livre+da+upf+esta+com+inscricoes+abertas>. Acesso em: 03 ago. 2014.
+<http://www.onacional.com.br/geral/cidade/44004/1+0limpiada+de+robotica+educativa+livre+da+upf+esta+com+inscricoes+abertas>. Acesso em: 03 ago. 2014.
 
 PIVA JR., D.; FREITAS, R. L. Estratégias para melhorar os processos de Abstração na disciplina de Algoritmos. 2011. Disponível em:
-<http://www.dimap.ufrn.br/csbc2011/anais/eventos/contents/WEI/Wei_Secao_1_Artig o_1_Piva_Jr.pdf>. Acesso em: 15 mai. 2014.
+<http://www.dimap.ufrn.br/csbc2011/anais/eventos/contents/WEI/Wei_Secao_1_Artigo_1_Piva_Jr.pdf>. Acesso em: 15 mai. 2014.
 
 PRIETCH, S. S.; PAZETO, T. A. Estudo sobre a Evasão em um Curso de Licenciatura em Informática e Considerações para Melhorias. 2010. Disponível em: <http://www.cesmac.com.br/erbase2010/papers/weibase/65258.pdf>. Acesso em: 15 mai. 2014.
 
