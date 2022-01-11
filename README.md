@@ -118,8 +118,8 @@ CASTILHO, M.; SILVA, F.; WEINGAERTNER, D. Algoritmos e Estrutura de Dados I. 201
 CISCO. Estudo revela demanda crescente por profissionais de tecnologia no Brasil, mas há falta de mão de obra qualificada. 2013. Disponível em: <
 http://globalnewsroom.cisco.com/pt/br/release/Estudo-revela-demanda-crescente-por-profissionais-de-tecnologia-no-Brasil-mas-h%C3%A1-falta-1688801>. Acesso em: 16 mai. 2014.
 
-DETERS, J. I et. al. O Desafio de Trabalhar com Alunos Repetentes na Disciplina de Algoritmos e Programação. Florianópolis: Serviço Nacional de Aprendizagem Industrial – SENAI, 2008; Itajaí: Universidade do Vale do Itajaí – UNIVALI, 2008; São José: Universidade do Vale do Itajaí – UNIVALI, 2008. Disponível em:
-<http://proativa.virtual.ufc.br/sbie/CD_ROM_COMPLETO/workshops/workshop%20 2/O%20Desafio%20de%20Trabalhar%20com%20Alunos%20Repetentes%20na.pdf>. Acesso em: 21 abr. 2014.
+DETERS, J. I et. al. O Desafio de Trabalhar com Alunos Repetentes na Disciplina de Algoritmos e Programação. Florianópolis: Serviço Nacional de Aprendizagem Industrial – SENAI, 2008; Itajaí: Universidade do Vale do Itajaí – UNIVALI, 2008; São José: Universidade do Vale do Itajaí – UNIVALI, 2008. Disponível em: <
+http://proativa.virtual.ufc.br/sbie/CD_ROM_COMPLETO/workshops/workshop%202/O%20Desafio%20de%20Trabalhar%20com%20Alunos%20Repetentes%20na.pdf >. Acesso em: 21 abr. 2014.
 
 FORBELLONE, A. L. V.; EBERSPÄCHER, H. F. Lógica de programação: a construção de algoritmos e estruturas de dados. 3ª ed. São Paulo: Prentice Hall, 2005.
 
