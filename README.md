@@ -163,4 +163,4 @@ SUPERGEEKS. SuperGeeks (Site). Disponível em: http://supergeeks.com.br. Acesso 
 
 UFMS. DESTACOM: tutorial de alice. 2013. Disponível em: http://destacom.ufms.br/wiki/Tutorial_de_Alice#Introdu.C3.A7.C3.A3o. Acesso em: 20 ago. 2014.
 
-WERNER, H.; GASPAR JR., G. P. Utilização de um carro-robô construído com componentes de baixo custo como ferramenta de apoio ao aprendizado dos conceitos de orientação a objetos. 2001. Disponível em: http://lsm.dei.uc.pt/ribie/docfiles/txt200373118616paper-201.pdf. Acesso em: 05 mai. 2014
+WERNER, H.; GASPAR JR., G. P. Utilização de um carro-robô construído com componentes de baixo custo como ferramenta de apoio ao aprendizado dos conceitos de orientação a objetos. 2001. Disponível em: http://lsm.dei.uc.pt/ribie/docfiles/txt200373118616paper-201.pdf. Acesso em: 05 mai. 2014.
