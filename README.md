@@ -46,7 +46,7 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <br/>
 
 #### Vetores - Projeto
-<img src='reports/images/sound_reproduction_project1.png' align="center" height=auto width=60%>
+<img src='reports/images/sound_reproduction_project1.png' align="center" height=auto width=50%>
 
 #### Vetores - Montagem
 <img src='reports/images/sound_reproduction_project2.png' align="center" height=auto width=60%>
@@ -54,7 +54,7 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 <br/>
 
 #### Matrizes - Projeto
-<img src='reports/images/project_lights_led_in_matrix1.png' align="center" height=auto width=60%>
+<img src='reports/images/project_lights_led_in_matrix1.png' align="center" height=auto width=50%>
 
 #### Matrizes - Montagem
 <img src='reports/images/project_lights_led_in_matrix2.png' align="center" height=auto width=60%>
