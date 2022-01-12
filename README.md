@@ -90,6 +90,11 @@ b) Aplicar os conceitos vistos em aula em projetos práticos.
 
 <br/>
 
+### Material Entregue aos Alunos no Final da Oficina 
+[Ver pasta com materiais](https://github.com/larissapeluso/robotics-for-the-study-of-algorithms/tree/main/etic)
+
+#### Para mais informações sobre o e-TIC, acesse: [http://www.etic.ifc-camboriu.edu.br/](http://www.etic.ifc-camboriu.edu.br/) 
+
 ## Requisitos
 | Requisito       | Versão            |
 |---------------- |-------------------|
